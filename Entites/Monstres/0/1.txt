@@ -1,0 +1,5 @@
+nom=Serpent
+pv=20
+dmg=10
+deff=0
+vitesse=1

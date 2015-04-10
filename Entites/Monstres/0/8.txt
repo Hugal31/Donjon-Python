@@ -1,0 +1,5 @@
+nom=Squelette
+pv=150
+dmg=35
+deff=0
+vitesse=2

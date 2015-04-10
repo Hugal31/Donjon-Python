@@ -1,0 +1,5 @@
+nom=Spectre
+pv=200
+dmg=20
+deff=20
+vitesse=4

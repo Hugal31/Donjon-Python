@@ -1,0 +1,5 @@
+nom=Gargouille
+pv=100
+dmg=15
+deff=6
+vitesse=2

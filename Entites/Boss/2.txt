@@ -1,0 +1,5 @@
+nom=Dragon
+pv=200
+deff=50
+dmg=50
+vitesse=8

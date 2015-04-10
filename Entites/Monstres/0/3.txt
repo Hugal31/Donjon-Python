@@ -1,0 +1,5 @@
+nom=Armure vivante
+pv=40
+dmg=15
+deff=5
+vitesse=2

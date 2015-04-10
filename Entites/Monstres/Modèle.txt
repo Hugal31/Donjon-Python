@@ -1,0 +1,5 @@
+nom=
+pv=
+dmg=
+deff=
+vitesse=

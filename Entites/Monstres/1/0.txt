@@ -1,0 +1,6 @@
+nom=Archer Gobelin
+pv=15
+dmg=15
+deff=1
+vitesse=2
+projectile=1

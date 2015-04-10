@@ -1,0 +1,5 @@
+nom=Chauves-Souris
+pv=50
+dmg=15
+deff=0
+vitesse=1

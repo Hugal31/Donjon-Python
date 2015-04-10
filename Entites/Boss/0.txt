@@ -1,0 +1,5 @@
+nom=Roi Blob
+pv=500
+deff=0
+dmg=20
+vitesse=2

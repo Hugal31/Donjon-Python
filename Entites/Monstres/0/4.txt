@@ -1,0 +1,5 @@
+nom=Orc
+pv=40
+dmg=20
+deff=3
+vitesse=1

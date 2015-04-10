@@ -1,0 +1,5 @@
+nom=Troll
+pv=300
+deff=10
+dmg=50
+vitesse=4

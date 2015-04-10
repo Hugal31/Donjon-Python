@@ -1,0 +1,5 @@
+nom=Demon
+pv=300
+dmg=50
+deff=0
+vitesse=3

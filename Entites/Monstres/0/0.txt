@@ -1,0 +1,5 @@
+nom=Petit Blob
+pv=30
+dmg=5
+deff=0
+vitesse=1

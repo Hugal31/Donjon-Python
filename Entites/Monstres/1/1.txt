@@ -1,0 +1,6 @@
+nom=A
+pv=50
+dmg=50
+deff=0
+vitesse=2
+projectile=0

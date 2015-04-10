@@ -1,0 +1,7 @@
+dmg=0
+pv=0
+deff=0
+mana=10
+critDmg=0
+critChc=15
+multOr=0

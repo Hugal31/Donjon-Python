@@ -1,0 +1,5 @@
+nom=Chevalier
+pv=100
+dmg=30
+deff=6
+vitesse=2
