@@ -156,8 +156,8 @@ class Credits():
 
     def creditFen9(self):
         self.credit = pygame.display.set_mode((0,0), pygame.FULLSCREEN)
-        self.credit1 = self.titreFond.render('Nous remercions tout ce qui nous ont aidé,',1,(255,255,255))
-        self.credit2 = self.ligneFond.render('Tout ce qui nous ont donné une critique positive,',1,(255,255,255))
+        self.credit1 = self.titreFond.render('Nous remercions tout ceux qui nous ont aidé,',1,(255,255,255))
+        self.credit2 = self.ligneFond.render('Tout ceux qui nous ont donné une critique positive,',1,(255,255,255))
         self.credit3 = self.ligneFond.render("Et aussi ceux qui ont participé à l'élaboration de ce",1,(255,255,255))
         self.credit4 = self.ligneFond.render("projet et qui ont permis qu'il atteigne son terme",1,(255,255,255))
         self.credit5 = self.ligneFond.render("Appuyez sur une touche pour quitter",1,(240,240,240))
