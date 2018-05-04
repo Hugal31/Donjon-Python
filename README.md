@@ -1,6 +1,8 @@
-#Donjon-Python
+# Donjon-Python
 
 Lancez Launcher.py
+
+![Screenshot](docs/screenshot.jpg)
 
 Le projet
 =========
@@ -20,7 +22,8 @@ Installation des dépendances
 
 Sur Debian / dérivés :
 Pygame pour python3
+
 ```
 sudo apt-get install python3-pip
-sudo pip3 install pygame
+pip3 install pygame
 ```
